@@ -14,8 +14,8 @@
 ---
 
 ## ***Info***
-- **🔭 Fun Fact: I Love To Mod Fortnite**
-- 🥅 2023 Goals: Try To Learn Coding Language's**
+- ***🔭 Fun Fact: I Love To Mod Fortnite***
+- ***🥅 2023 Goals: Try To Learn Coding Language's***
 
 ---
 
@@ -58,7 +58,7 @@
 
 ---------------
 
-### **Discord Status**
+### ***Discord Status***
 
 [![https://discord.com/users/1106620371307864085](https://discord.c99.nl/widget/theme-2/1106620371307864085.png)
 
