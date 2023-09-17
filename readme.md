@@ -13,7 +13,7 @@
 
 ### ***Spotify Status***
 
-[![Spotify](https://verzehxd.vercel.app/api/spotify)](https://open.spotify.com/user/81511dbab8d4444bb68d23d693228e7c)
+[![Spotify](https://verzehxd.vercel.app/api/spotify/?background_color=&border_color=42d142)](https://open.spotify.com/user/81511dbab8d4444bb68d23d693228e7c)
 
 
 
