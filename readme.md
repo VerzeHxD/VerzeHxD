@@ -1,3 +1,37 @@
+<div align="center">
+<h2> 𝐇𝐢 𝐓𝐡𝐞𝐫𝐞 👋, 𝐈'𝐦 𝐕𝐞𝐫𝐳𝐞!
+
+</div>
+
+<div align="center" width="50">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1106620371307864085)](https://discord.com/users/11106620371307864085)
+
+<div align="center" width="50">
+
+
+
+### ***Spotify Status***
+
+[![Spotify](https://verzehxd.vercel.app/api/spotify)](https://open.spotify.com/user/81511dbab8d4444bb68d23d693228e7c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## ***Hi There 👋, I'm Verze***
 
 ---
