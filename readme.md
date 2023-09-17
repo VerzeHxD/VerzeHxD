@@ -86,8 +86,8 @@
 ## ***Credits:***
 
 - ***[0xZylox](https://github.com/0xZylox) (For The PC Specs)***
-- ***[Rahuldkjain](https://github.com/rahuldkjain) (Rahuldkjain's Github Profile)***
 - ***[Rahuldkjain](https://rahuldkjain.github.io/gh-profile-readme-generator/) (Bio Template)***
+- ***[FrostOnAcid](https://github.com/FrostOnAcid) (Spotify & Discord Activity Status)***
 
 
 ---------------
