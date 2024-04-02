@@ -11,13 +11,9 @@
 
 <div align="center" width="50">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1106620371307864085)](https://discord.com/users/11106620371307864085)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1106620371307864085?theme=dark&bg=10141c&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/11106620371307864085)
 
 <div align="center" width="50">
-
-
-###
-<img align="right" height="150" src="https://i.imgflip.com/8l8hlg.gif"  />
 
 ###
 
