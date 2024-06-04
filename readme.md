@@ -1,48 +1,34 @@
-<h1 align="left">Hi 👋! My name is Verze and I'm a Software Developer</h1>
+![svg (1)](https://github.com/EpicCatto/EpicCatto/assets/72650902/96c1309e-d384-4a93-8723-89c78e24d79a)
 
-###
+<br><br>
+
+<h3 align="center">I'm Verze</h3>
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VerzeHxD&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VerzeHxD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src=https://lanyard.cnrad.dev/api/1106620371307864085?theme=dark&bg=10141c&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=If%20My%20Softwares%20Help%20You,%20Please%20Consider%20Following%20My%20Github,%20Thank%20You!%20<3">
 </div>
 
-</div>
-
-<div align="center" width="50">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1106620371307864085?theme=dark&bg=10141c&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=If%20My%20Softwares%20Help%20You,%20Please%20Consider%20Following%20My%20Github,%20Thank%20You!%20<3)](https://discord.com/users/11106620371307864085)
-
-<div align="center" width="50">
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://twitter.com/VerzeHxD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+<h3 align="center">L E A R N I N G</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,css&perline=12" />
   </a>
-  <a href="https://discord.com/users/1106620371307864085" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</p>
+
+<h3 align="center">ＩＮＴＲＥＳＴＥＤ ＩＮ ＬＥＡＲＮＩＮＧ</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,dotnet,js,css,html&perline=12" />
   </a>
-  <a href="https://www.youtube.com/channel/UCZGl2oIOJpYQfKE-XPBk8Iw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-</div>
+</p>
 
-###
+<h3 align="center">P R O J E C T S</h3>
+<h3 align="center"><a href="https://github.com/VerzeHxD/Fortnite-Builds">Fortnite Builds</a></h3>
+<h3 align="center"><a href="https://github.com/VerzeHxD/Minecraft-Username-To-Skin">Minecraft Username To Skin</a></h3>
+<h3 align="center"><a href="https://github.com/VerzeHxD/Roblox-FPS-Unlocker">Roblox FPS Unlocker</a></h3>
+<h3 align="center"><a href="https://github.com/VerzeHxD/Project-Reboot-3.0-Full-Snow-Map">Project Reboot 3.0 Full Snow Map</a></h3>
 
-<br clear="both">
+<br><br>
 
-<img src="https://github.com/maurodesouza/profile-readme-generator/raw/main/public/assets/snake.svg" alt="Snake animation" />
-
-###
+![svg](https://github.com/EpicCatto/EpicCatto/assets/72650902/6040ba6a-9591-47a5-95fe-1c322597eba0)
